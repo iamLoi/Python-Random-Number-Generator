@@ -2,5 +2,5 @@ google-auth==1.6.2
 google-cloud-bigquery-storage==0.6.0
 google-cloud-bigquery==1.17.0
 pyarrow==0.13.0
-ipython==7.2.0
+ipython==7.16.3
 pandas==0.24.2
